@@ -1,0 +1,50 @@
+[
+    {
+      "Q": "A small quantity of benzene is to be used for a lab experiment. Based on the information given below about benzene, answer the questions 1 and 2. About benzene: Main routes of exposure that can lead to potential health hazards - Inhalation, Skin contact and Eye contact. Benzene is a flammable liquid and can ignite at room temperature if static discharges are present. Which of these is necessary for skin protection while handling small quantities of benzene?",
+      "A": "Traditional cotton polyester blend lab coat",
+      "Options": ["Barrier lab coat", "FR lab coat", "Gloves"],
+      "Incorrect": "Explanation needed."
+    },
+    {
+        "Q": "A small quantity of benzene is to be used for a lab experiment. Based on the information given below about benzene, answer the questions 1 and 2. About benzene: Main routes of exposure that can lead to potential health hazards - Inhalation, Skin contact and Eye contact. Which of these is necessary for eye/face protection while handling small quantities of benzene? ",
+        "A": "Safety goggles",
+        "Options": ["Chemical splash goggles", "Face shield", "UV Protective Goggles"],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "Which layer(s) of protection were compromised during the incident shown in the video ‘Safety Gear’?",
+        "A": "Protection to body",
+        "Options": ["Protection to hands", "Protection to eyes", "Protection to face"],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "Which of the following is the best choice as foot wear for someone working in a laboratory?",
+        "A": "Close-toed leather shoe",
+        "Options": ["Sneaker", "Sandals", "Crocks"],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "From the events occurring in the video, which of the following statement(s) do not adhere to the safety protocols in a laboratory?",
+        "A": "Drinking soda out of a lab instrument.",
+        "Options": ["Reading the lab manual", "Leaving biological material in the open", "Not going to a doctor after drinking the biological material"],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "A bottle of corrosive acid spilled accidentally on a person. What is the correct sequence of events that must be followed?",
+        "A": "Remove contaminated clothing, shoes, jewelry etc.,",
+        "Options": ["Run towards the emergency shower", "Stay under the shower for 15 min", "Pull the handle to activate the shower"],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "Which of the following is recommended when you are working in the lab?",
+        "A": "Get a new pair of gloves and wear them throughout the experiment.",
+        "Options": ["Reuse old gloves from the earlier day.", "There is no need for gloves for any experiment", "Gloves are not required as your experiment involves small quantities of chemicals only."],
+        "Incorrect": "Explanation needed."
+      },
+      {
+        "Q": "Out of the following, select the statement(s) which you think should be followed in a demonstration in the lab?",
+        "A": "Perform the experiments involving volatile/aggressive chemical under a fume hood",
+        "Options": ["Perform the experiment involving volatile/aggressive chemicals on an open table", "", ""],
+        "Incorrect": "Explanation needed."
+      }
+  ]

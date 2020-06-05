@@ -1,0 +1,60 @@
+.question {
+    color: whitesmoke;
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: darkcyan;
+    margin-top: 10px;
+    padding: 0.5em 1em;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+.question:hover {
+    background-color: whitesmoke;
+    color: darkcyan;
+}
+
+.wronganswer {
+    background-color: orangered;
+    color: white;
+    border: none;
+    display: block;
+    margin-top: 10px;
+    padding: 0.5em 1em;
+    width: 100%;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}
+
+.rightanswer {
+    background-color: darkcyan;
+    color: white;
+    width:100%;
+    border: none;
+    display: block;
+    margin-top: 10px;
+    padding: 0.5em 1em;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    transition-duration: 0.1s;
+}
+
+.explanation {
+    background-color: whitesmoke;
+    width: 100%;
+    border-radius: 8px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: darkcyan;
+    color: black;
+    padding: 0.5em 1em;
+    display: block;
+    margin-top: 1em;
+    text-align: center;
+    transition-duration: 0.1s;
+}
